@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming and Programing
 - 🌱 I’m currently learning Random Programing Languages
 - 💞️ I’m looking to collaborate on Nothing for now
-- 📫 How to reach me on Discord: Stranger 0g#8095
+- 📫 How to reach me on Discord: stranger0g
 
 <!---
 stranger0g/stranger0g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
